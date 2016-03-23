@@ -13,3 +13,5 @@ step 5, follow this [guide](http://esotalk.org/docs/installation) to install eso
 step 6, once install, please go to `Plugins` in admin backend and enable `RankGold`
 
 note, plugin has been tested with esotalk 1.0.0g4 only.
+
+[pretty url configuration](http://esotalk.org/docs/configuration)
